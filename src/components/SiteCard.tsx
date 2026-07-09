@@ -1,5 +1,5 @@
-import { FC } from 'react'
-import { SiteResult } from '../types'
+import type { FC } from 'react'
+import type { SiteResult } from '../types'
 
 interface Props {
   site: SiteResult

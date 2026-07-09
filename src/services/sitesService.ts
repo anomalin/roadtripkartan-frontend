@@ -1,6 +1,6 @@
 // src/services/sitesService.ts
 
-import { LiteraryWork, MusicWork, SiteResult } from '../types'
+import type { LiteraryWork, MusicWork, SiteResult } from '../types'
 
 export async function searchSites(query: string): Promise<SiteResult[]> {
   const response = await fetch(`/api/sites/search?q=${encodeURIComponent(query)}`)

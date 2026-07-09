@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { SiteResult, EnrichedSite, CuratedData, MusicWork, LiteraryWork } from './types'
+import type { SiteResult, EnrichedSite, CuratedData, MusicWork, LiteraryWork } from './types'
 import { fetchMusicByDateRange, searchSites, fetchLiteratureByDateRange, fetchSiteById } from './services/sitesService'
 import Header from './components/Header'
 import SearchBar from './components/SearchBar'

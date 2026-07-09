@@ -1,6 +1,6 @@
 // src/components/SearchBar.tsx
-
-import { FC, useState } from 'react'
+import type { FC } from 'react'
+import { useState } from 'react'
 
 interface Props {
   onSearch: (query: string) => void

@@ -1,5 +1,5 @@
-import { FC } from 'react'
-import { EnrichedSite, LiteraryWork, MusicWork } from '../types'
+import type { FC } from 'react'
+import type { EnrichedSite, LiteraryWork, MusicWork } from '../types'
 
 interface Props {
   site: EnrichedSite

@@ -1,7 +1,7 @@
 // src/components/SiteGrid.tsx
 
-import { FC } from 'react'
-import { SiteResult } from '../types'
+import type { FC } from 'react'
+import type { SiteResult } from '../types'
 import SiteCard from './SiteCard'
 
 interface Props {

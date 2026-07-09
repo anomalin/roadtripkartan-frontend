@@ -1,6 +1,6 @@
 // src/components/Header.tsx
 
-import { FC } from 'react'
+import type { FC } from 'react'
 
 const Header: FC = () => {
   return (
