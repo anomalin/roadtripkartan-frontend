@@ -1,0 +1,276 @@
+{
+    "http://kulturarvsdata.se/raa/bbr/21400000580062": {
+        "name": "Nääs slott",
+        "periodLabel": "Nationalromantiken",
+        "dateRange": [
+            1850,
+            1920
+        ],
+        "editorialNote": "Under 1800-talets senare hälft svepte nationalromantiken över Skandinavien — ett nyväckt intresse för det folkliga, det genuint svenska. På Nääs möttes dessa strömningar med en pedagogisk vision: att slöjden var inte blott hantverk utan bildning. Hit kom lärare från hela världen för att lära sig Otto Salomons metod.",
+        "literature": [],
+        "lat": 57.814,
+        "lon": 12.394,
+        "image": "/images/naas.png"
+    },
+    "http://kulturarvsdata.se/raa/bbrb/21420000040680": {
+        "name": "Gunnebo slott",
+        "periodLabel": "Gustaviansk klassicism",
+        "dateRange": [
+            1770,
+            1810
+        ],
+        "editorialNote": "I 1700-talets slutskede sökte sig den svenska bildade klassen mot antikens ideal — ett nytt förnuft, en ny enkelhet. På Gunnebo förkroppsligades denna anda i sten och trä: Carl Wilhelm Carlberg ritade ett gods där varje detalj, från trädgårdens geometri till interiörernas proportioner, talade upplysningens språk. Här möttes vetenskap och skönhet, köpmannens rikedom och arkitektens vision, i en av Sveriges mest fulländade nyklassicistiska anläggningar.",
+        "literature": [],
+        "lat": 57.6583,
+        "lon": 12.0595,
+        "image": "/images/gunnebo.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000357466": {
+        "name": "Läckö slott",
+        "periodLabel": "Stormaktstiden",
+        "dateRange": [
+            1611,
+            1718
+        ],
+        "editorialNote": "Stormaktstidens Sverige var ett imperium byggt på järn och diplomatik — ett litet nordligt rike som på ett sekel erövrade Östersjöns kuster och satte sin prägel på en hel kontinent. På Läckö förkroppsligades denna era av Magnus Gabriel De la Gardie, rikskansler och konstmecenat, som förvandlade en medeltida biskopsborg till ett av Sveriges mest magnifika barockslott. Här möttes krigsbyten från Moskva och ryska fälttåg med flamländska tapeter och tyska bildhuggare — en kultur på höjden av sin makt, medveten om sin egen glans.",
+        "literature": [],
+        "lat": 58.6752,
+        "lon": 13.2193,
+        "image": "/images/lacko.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000439623": {
+        "name": "Tjolöholms slott",
+        "periodLabel": "Sekelskiftets modernitet",
+        "dateRange": [
+            1890,
+            1915
+        ],
+        "editorialNote": "Vid det svenska sekelskiftet möttes två världar — det agrara och det industriella, det nationella och det internationella. Tjolöholm är denna spännings mest fulländade uttryck: ett slott byggt av handelsdynastins pengar, ritat i engelsk tudorstil av en arkitekt som aldrig besökt England, inrett från Libertys varuhus i London och placerat på en halvö vid Kungsbackafjorden. Arts and Crafts-rörelsen predikade hantverkets värdighet i industrialismens tidsålder — och här, i granit och ek och handvävd textil, fick den sin svenska hemvist.",
+        "literature": [],
+        "lat": 57.3986,
+        "lon": 12.1031,
+        "image": "/images/tjoloholm.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000210007": {
+        "name": "Dicksonska palatset",
+        "periodLabel": "Borgarkultur i den Oscarianska eran",
+        "dateRange": [
+            1855,
+            1900
+        ],
+        "editorialNote": "I 1800-talets Göteborg växte en ny klass fram — handelsdynastiernas män, vars förmögenheter byggdes på trävirke, järn och världshandel. Oscar Dickson var en av dem. Hans palats vid Heden, ritat av den engelske arkitekten William Allen Boulnois i florentinsk nyrenässansstil, var inte bara en bostad utan ett manifest: ett anspråk på att det göteborgska borgerskapet tillhörde Europas kulturella och ekonomiska elit. Bland gästerna fanns Oscar II och Nordostpassagens upptäckare Adolf Erik Nordenskiöld, vars polarexpeditioner Dickson till stor del finansierade. Huset var utrustat med vattentoalett — en nymodighet som irriterade kung Karl XV under hans husesyn.",
+        "literature": [],
+        "lat": 57.6973,
+        "lon": 11.9836,
+        "image": "/images/dicksonska.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000694442": {
+        "name": "Svartsjö slott",
+        "periodLabel": "Frihetstid och gustaviansk rokoko",
+        "dateRange": [
+            1730,
+            1790
+        ],
+        "editorialNote": "På en ö i Mälaren lät Fredrik I uppföra ett jaktslott som skulle komma att förändra svensk arkitektur för generationer framåt. Carl Hårleman reste till Paris, studerade Ludvig XV:s palats och återvände med rokokon i bagaget — en stil av lätt elegans och lekfull ornamentik som stod i stark kontrast mot barockens tunga patos. Svartsjö blev mönsterbildande för den svenska herrgården. Senare beboddes slottet av änkedrottning Lovisa Ulrika, som i sin exil här korresponderade med Voltaire och odlade upplysningstidens idéer långt från Stockholms hovintrigers centrum.",
+        "literature": [],
+        "lat": 59.36269,
+        "lon": 17.72792,
+        "image": "/images/svartsjo.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000356019": {
+        "name": "Stockholms Observatorium",
+        "periodLabel": "Mellankrigstid och vetenskaplig modernism",
+        "dateRange": [
+            1920,
+            1940
+        ],
+        "editorialNote": "Mellan de två världskrigen sträckte sig Sverige mot stjärnorna — bokstavligt talat. När stadens ljus och rökfyllda luft till slut omöjliggjorde observationer på Observatoriekullen, beslöt Kungliga Vetenskapsakademien att bygga nytt. Ute i Saltsjöbaden, där molnigheten avtog och mörkret fortfarande var mörkt, reste sig ett av Europas modernaste observatorier. Arkitekten Axel Anderberg — samme man som ritat Naturhistoriska riksmuseet och Kungliga Operan — gav anläggningen en stilren och funktionell form. Det var en tid då vetenskapen bar på en nästan religiös framtidstro: att universum inte bara kunde observeras utan förstås, kartläggas, behärskas. Ute i Saltsjöbaden mätte man avstånd till galaxer medan Europa sakta rörde sig mot sin mörkaste timme.",
+        "literature": [],
+        "lat": 59.27183,
+        "lon": 18.30411,
+        "image": "/images/observatorium.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000355579": {
+        "name": "Koppartälten i Hagaparken",
+        "periodLabel": "Gustaviansk teaterkultur",
+        "dateRange": [
+            1780,
+            1800
+        ],
+        "editorialNote": "Gustaf III var inte bara kung — han var regissör. Hans Sverige var en scen där arkitektur, teater, mode och politik flöt samman i en enda stor föreställning. I Hagaparken fick denna estetik sitt mest lekfulla uttryck: Koppartälten, ritade av teaterdekoratören Louis Jean Desprez, var egentligen bara kulisser — praktfulla framsidor mot pelousen, vanliga träbyggnader på baksidan. Det var ett kungadöme som visste att det spelade en roll och som spelade den med glans. Den 16 mars 1792 lämnade Gustaf III Haga för sista gången, på väg till operamaskeraden där han skulle skjutas. Tälten stod kvar i parken, koboltblå och gyllene, som ett monument över en tid som slutade mitt i en menuett.",
+        "literature": [],
+        "lat": 59.36452,
+        "lon": 18.02967,
+        "image": "/images/koppartalt.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000295043": {
+        "name": "Sven Markelius kollektivhus",
+        "periodLabel": "Folkhem och funktionalism",
+        "dateRange": [
+            1930,
+            1950
+        ],
+        "editorialNote": "Det fanns en tid då arkitektur var politik - och Sverige var dess laboratorium. När Sven Markelius och Alva Myrdal ritade kollektivhuset på John Ericssonsgatan hade de inte bara en byggnad i sinnet utan en ny människa: den moderna yrkeskvinnan, det rationella hemmet, barnomsorg som samhällsfunktion. Huset var ett manifest i puts och glas: att det privata är politiskt, att bostadens utformning formar livet i den. I bottenvåningen en restaurang med mathiss upp till lägenheterna. På takvåningen arkitektens eget kontor. Bland hyresgästerna tidens radikalaste kulturpersonligheter. Utanför pågick trettiotalet — depression, fascism, krig. Innanför byggdes framtiden, rum för rum.",
+        "literature": [],
+        "lat": 59.32807,
+        "lon": 18.03718,
+        "image": "/images/markelius.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21420000003600": {
+        "name": "Stockholms stadsbibliotek",
+        "periodLabel": "Swedish Grace och stilens brytpunkt",
+        "dateRange": [
+            1920,
+            1930
+        ],
+        "editorialNote": "Det finns byggnader som tillhör en epok, och det finns byggnader som är en epoks avslutning. Stockholms stadsbibliotek är det senare. Gunnar Asplund ritade det under tio år, från 1918 till 1928, och under den tiden förändrades hela den arkitektoniska världen runt honom. De tidiga skisserna visar en byggnad i traditionell klassicism. Det färdiga resultatet — en kub som omsluter en cylinder, en rotunda som påminner om fornegyptiska tempel, bokhyllor i gallerier upp mot en kuppel av ljus — är något annat: Swedish Grace, en nordisk raffinering av klassicismens former till deras mest abstrakta geometri. Två år efter invigningen ledde Asplund Stockholmsutställningen 1930 och introducerade funktionalismen i Sverige. Biblioteket stod kvar som ett monument över en stil som precis hade tagit sitt sista andetag.",
+        "literature": [],
+        "lat": 59.34336,
+        "lon": 18.05464,
+        "image": "/images/stadsbibliotek.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000696543": {
+        "name": "Ralph Erskines bostad och kontor",
+        "periodLabel": "Brutalism och humanistisk modernism",
+        "dateRange": [
+            1955,
+            1975
+        ],
+        "editorialNote": "Han kom till Sverige 1939 med cykel, ryggsäck och sovsäck — en ung brittisk arkitekt som förälskat sig i den svenska funktionalismens sociala vision. På Drottningholmsmalmen, granne med 1700-talshus och Peter Celsings eleganta villor, byggde Ralph Erskine till slut sitt eget hem. Villa Erskine är ett manifest i lättbetong: tre huskroppar kring en innergård med fruktträd och spegeldamm, atriumhuset som livsprincip. Brutalistisk i material, humanistisk i intention. Erskine var övertygad om att arkitektur formar människors liv — inte tvärtom — och i den egna villan prövade han sin tro på den öppna planlösningen, på ljusets spel, på att en byggnad ska kännas som en naturlig förlängning av sin omgivning. Grannarna i de gustavianska trähusen var skeptiska. Eftervärlden gav Erskine rätt.",
+        "lat": 59.3251,
+        "lon": 17.8901,
+        "image": "/images/erskinevilla.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000095473": {
+        "name": "Ekenäs slott",
+        "periodLabel": "Stormaktstid och adelskultur",
+        "dateRange": [
+            1620,
+            1680
+        ],
+        "editorialNote": "På en brant klippa över sjön Teden reste sig Ekenäs under det svenska stormaktsväldets kulmen — byggt av riksrådet Peder Banér, en av de mäktigaste männen i förmyndarregeringen för drottning Kristina. Den holländske arkitekten Hans Flemming gav slottet sin renässansform: vallgrav, portvalv, hörntorn med lökformiga knoppar i barockens svängda linjer. Ekenäs tillhör den generation av östgötska herremanssäten som reste sig när Sverige erövrade ett imperium — och vars ägare satt i riksrådet, förde krig i Pommern och lät bygga slott som monument över sin egen makt. Sedan 1934 obebott, sedan 1974 byggnadsminne. Vallgraven är densamma.",
+        "lat": 58.3819,
+        "lon": 15.9457,
+        "image": "/images/ekenas.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000581412": {
+        "name": "Hotell Knaust",
+        "periodLabel": "Stenstaden och sågverksepoken",
+        "dateRange": [
+            1888,
+            1914
+        ],
+        "editorialNote": "Den 25 juni 1888 brann Sundsvall ner. På några timmar förvandlades världens största sågverksstad till aska — och inom ett decennium reste sig något helt nytt ur ruinerna: Stenstaden, en monumental stadskärna i sten och tegel, byggd av de sågverksbaroner vars förmögenheter Norrlands skogar genererat. Wilhelm Knaust lät arkitekten Albert Boltenstern rita ett hotell i nyrenässansens språk, och 1891 invigdes Hotell Knaust med det som skulle bli dess signum: en svepande trappa i carraramarmor med sextiofyra steg, utformad så att damerna i sina aftonklänningar kunde glida nedför med maximal effekt. Här möttes sågverksdirektörer, handelsmän och hovets resande sällskap i en provinsstad som tillfälligt var en av Sveriges rikaste. Det norrländska sekelskiftet hade fått sin scen — och Knausttrappan dess största replik.",
+        "lat": 62.3904,
+        "lon": 17.3110,
+        "image": "/images/knaust.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000356364": {
+        "name": "Skokloster slott",
+        "periodLabel": "Stormaktstiden och barocken",
+        "dateRange": [
+            1650,
+            1700
+        ],
+    "editorialNote": "Sverige var på 1650-talet en militär supermakt — och få män förkroppsligade det faktum lika tydligt som fältmarskalken Carl Gustaf Wrangel. Med segrar från trettioåriga kriget i ryggen och en av landets största privata förmögenheter beställde han 1654 ett slott vid Mälarens strand som inte skulle lämna någon i tvivel om vem han var. Arkitekten Caspar Vogel lade grunden, Jean de la Vallée och Nicodemus Tessin den äldre förfinade formerna — resultatet blev stormaktstidens största privata byggprojekt i landet, ett fyrtornat barockpalats vars interiörer fylldes med krigsbyten, vapen, konst och textilier hämtade från ett halvt kontinents slott och kyrkor. Wrangel dog 1676 och hantverkarna lade ned sina verktyg. Den stora bankettsalen i västra längan stod — och står fortfarande — oavslutad, med snickarbänkar och ställningar kvar som ett fruset ögonblick ur en 1600-talsbyggarbod. Skokloster är inte bara ett av Europas förnämsta barockslott. Det är stormaktssveriges självporträtt i sten.",
+    "lat":59.7030,
+    "lon": 17.6213,
+    "image": "/images/skokloster.png" 
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000583230": {
+    "name": "Carl Larsson-gården",
+    "periodLabel": "Nationalromantik och det svenska folkhemmet i vardande",
+    "dateRange": [
+        1888,
+        1919
+        ],
+    "editorialNote": "När konstnären Carl Larsson och författaren Karin Larsson tog över gården Lilla Hyttnäs i Sundborn under 1880-talet skapade de något som skulle få betydelse långt utanför Dalarnas gränser. Här formades ett ideal för det svenska hemmet: ljust, personligt och fyllt av hantverk, färg och familjeliv. Carl Larssons akvareller från gården spreds internationellt och gjorde interiörerna till sinnebilden av svensk hemtrevnad, medan Karin Larssons djärva möblering, textilier och formgivning förebådade mycket av 1900-talets svenska design. I en tid när industrialiseringen förändrade samhället blev Sundborn en motbild — ett konstnärshem där vardagen förvandlades till konst och där bilden av Sverige som nation fick ett av sina mest bestående uttryck.",
+    "lat": 60.6502,
+    "lon": 15.7760,
+    "image": "/images/sundborn.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21300000013181": {
+    "name": "Curmanska villorna",
+    "periodLabel": "Badortsepoken och sekelskiftets villakultur",
+    "dateRange": [
+        1875,
+        1910
+        ],
+    "editorialNote": "Curmanska villorna i Lysekil uppfördes i en tid då västkusten utvecklades till en av Sveriges främsta badorter. Den första villan byggdes 1875 av badläkaren Carl Curman som en del av det framväxande kur- och badlivet i Lysekil. Efter en brand återuppfördes huvudvillan 1880 i en mer utarbetad fornnordiskt inspirerad stil, tillsammans med en mindre villa avsedd för familj och tjänstefolk. Anläggningen blev ett tydligt uttryck för den sena 1800-talets ideal där hälsa, natur och nationalromantik vävdes samman i arkitekturen. Villorna är fortfarande ett av de mest karaktäristiska exemplen på den svenska badortskulturen från sekelskiftet och har bevarats som byggnadsminne.",
+    "lat": 58.2749,
+    "lon": 11.4381,
+    "image": "/images/curmanska_villan.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000143244": {
+    "name": "Ellen Keys strand",
+    "periodLabel": "Tidig modernism och sekelskiftets bildningsideal",
+    "dateRange": [
+        1910,
+        1926
+        ],    
+    "editorialNote": "Ellen Keys Strand vid Omberg uppfördes 1910–1911 som ett personligt hem åt författaren och pedagogen Ellen Key. Huset ritades med inspiration från jugend, klassiska italienska villor och svensk herrgårdstradition, och speglar Keys idéer om ljus, enkelhet och skönhet i vardagen. Strand blev hennes sista hem och en plats där hon utvecklade sina tankar om bildning, estetik och socialt ansvar. Efter hennes död 1926 donerades egendomen till en stiftelse med uppdrag att bevara miljön och göra den tillgänglig för allmänheten. Idag står Strand kvar som ett av de mest betydelsefulla svenska författarhemmen från tidigt 1900-tal.",
+    "lat": 58.2946,
+    "lon": 14.6396,
+    "image": "/images/ellenkey.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000585103": {
+    "name": "Mårbacka",
+    "periodLabel": "Nationalromantik och det litterära sekelskiftet",
+    "dateRange": [
+        1890,
+        1930
+    ],
+    "editorialNote": "Mårbacka i Värmland är starkt förknippat med författaren Selma Lagerlöf, som föddes här 1858 och senare kom att återvända och forma gården till sitt hem och sin arbetsplats. Under början av 1900-talet, efter Nobelpriset i litteratur 1909, kunde Lagerlöf genomföra omfattande om- och tillbyggnader som gav Mårbacka dess nuvarande karaktär av herrgårdsliknande författarhem. Arkitekturen och miljön speglar både nationalromantikens ideal och hennes egen litterära värld, där landskapet, berättandet och historien flätas samman. Efter hennes död 1940 bevarades Mårbacka som minnesgård och är idag ett av Sveriges mest välkända författarhem.",
+    "lat": 59.7809,
+    "lon": 13.2330,
+    "image": "/images/marbacka.png"
+    },
+    "http://kulturarvsdata.se/raa/bbrb/21420000047762": {
+    "name": "Högbondens fyr",
+    "periodLabel": "Skärgårdsutveckling och kustsjöfartens expansion",
+    "dateRange": [
+        1900,
+        1950
+        ],
+    "editorialNote": "Högbondens fyrplats på Höga Kusten är en av Sveriges mest välbevarade fyrmiljöer och uppfördes 1909 som en del av statens utbyggnad av kustbelysning för att möta den ökande sjöfarten längs Norrlandskusten. Fyren ritades av Lars Johan Lehming och placerades på en dramatisk ö i Ångermanlands skärgård, där den tjänade som viktig navigationspunkt för fartyg genom Bottenhavet. Fyrvaktarbostäderna och den kringliggande miljön speglar det isolerade livet vid sekelskiftets fyrstationer, där arbete och vardag var tätt knutna till havets villkor. Fyrplatsen var i drift fram till 1996 och är idag ett byggnadsminne och ett välbesökt besöksmål i världsarvet Höga Kusten.",
+    "lat": 62.8660,
+    "lon": 18.4779,
+    "image": "/images/hogbonden.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000394537": {
+    "name": "Kalmar slott",
+    "periodLabel": "Medeltida maktcentrum och vasatidens befästningsarkitektur",
+    "dateRange": [
+        1200,
+        1600
+        ],
+    "editorialNote": "Kalmar slott är ett av Sveriges mest betydelsefulla historiska fästen och har spelat en central roll i landets politiska historia sedan medeltiden. Den första befästningen på platsen anlades redan under 1100–1200-talet, men slottet fick sin nuvarande karaktär under 1500-talet då Vasaätten omvandlade det till en modern renässansfästning. Här ägde viktiga historiska händelser rum, inte minst bildandet av Kalmarunionen 1397 som förenade de nordiska rikena under en gemensam krona. Under århundradena har slottet fungerat både som försvarsanläggning, kungligt residens och administrativt centrum. Idag är det ett av Sveriges bäst bevarade slott och en tydlig symbol för landets medeltida och tidigmoderna historia.",
+    "lat": 56.6580,
+    "lon": 16.3553,
+    "image": "/images/kalmarslott.png"    
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000357321": {
+    "name": "Bäckaskogs slott",
+    "periodLabel": "Skånsk slottsmiljö och romantiserad herrgårdshistoria",
+    "dateRange": [
+        1600,
+        1920
+        ],
+    "editorialNote": "Bäckaskogs slott i Skåne har sina rötter i medeltiden då platsen var ett kloster, men omvandlades under 1600-talet till ett kungligt slott efter reformationen. Under de följande århundradena användes anläggningen både som kunglig jaktgård och militärt stödjepunkt i det strategiskt viktiga gränslandskapet mellan Danmark och Sverige. På 1800-talet fick slottet en mer romantiserad karaktär genom om- och tillbyggnader i tidens historiserande stilideal, vilket förstärkte dess herrgårdsliknande uttryck. Slottet är också känt för sina kopplingar till kung Oscar II, som vistades här regelbundet. Idag är Bäckaskog ett välbevarat exempel på hur skånska slottsmiljöer formats av både krig, politik och senare sekelskiftets kulturideal.",
+    "lat": 56.0849,
+    "lon": 14.3494,
+    "image": "/images/backaskogslott.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000357635": {
+    "name": "Ornässtugan",
+    "periodLabel": "Vasatiden och stormaktstidens träbyggnadskultur",
+    "dateRange": [
+        1500,
+        1650
+    ],
+    "editorialNote": "Ornässtugan i Dalarna är en av Sveriges mest kända medeltida timmerbyggnader och är starkt förknippad med Gustav Vasas flykt från danska trupper år 1520. Enligt traditionen gömde han sig i byggnaden under sin färd genom Dalarna, en händelse som fått stor symbolisk betydelse i svensk historieskrivning. Stugan är uppförd i början av 1500-talet och representerar en av de äldsta bevarade profana träbyggnaderna i landet. Arkitekturen speglar dalarnas byggnadstraditioner under senmedeltid och tidig vasatid, med timmerkonstruktioner och interiörer som ger en unik inblick i vardagsliv och samhällsstruktur under perioden. Idag fungerar Ornässtugan som museum och kulturhistoriskt minnesmärke.",
+    "lat": 60.5070,
+    "lon": 15.5528,
+    "image": "/images/ornas.png"
+    }
+}
