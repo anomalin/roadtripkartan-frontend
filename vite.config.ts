@@ -7,7 +7,7 @@ export default defineConfig({
     server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:5236',
+        target: 'https://roadtripkartan-api.onrender.com',
         changeOrigin: true,
       },
     },
