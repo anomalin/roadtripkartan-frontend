@@ -23,14 +23,14 @@ const Header: FC = () => {
         Roadtripkartan  
       </h1>
 
-      <span style={{
+      <p style={{
         fontSize: '13px',
         fontStyle: 'italic',
         color: 'var(--color-text-secondary)',
         letterSpacing: '0.04em',
       }}>
         Upptäck platser med en historia att berätta
-      </span>
+      </p>
     </header>
   )
 }
