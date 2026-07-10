@@ -183,44 +183,10 @@
   }
 }
 
-.site-header {
-  border-bottom: 0.5px solid var(--color-border-primary);
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
-  padding-right: 2rem;
-  padding-left: 1rem;
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-}
-
-.site-title {
-  font-family: "IM Fell English", Georgia, serif;
-  font-size: 28px;
-  letter-spacing: 0.08em;
-  margin: 0;
-}
-
-.site-subtitle {
-  font-size: 13px;
-  font-style: italic;
-  color: var(--color-text-secondary);
-  letter-spacing: 0.04em;
-}
-
 @media (max-width: 600px) {
   .site-header {
     flex-direction: column;
-    align-items: flex-start;
-    gap: 0.35rem;
-    padding-right: 1rem;
-  }
-
-  .site-title {
-    font-size: 24px;
-  }
-
-  .site-subtitle {
-    font-size: 12px;
+    align-items: flex-start !important;
+    gap: 0.4rem;
   }
 }
