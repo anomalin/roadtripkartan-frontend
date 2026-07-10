@@ -28,6 +28,7 @@ const Header: FC = () => {
         fontStyle: 'italic',
         color: 'var(--color-text-secondary)',
         letterSpacing: '0.04em',
+        margin: 0,
       }}>
         Upptäck platser med en historia att berätta
       </p>
