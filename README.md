@@ -1,19 +1,23 @@
-# locus-client
+# roadtripkartan
 
-React + Vite + TypeScript single-page client for [Locus](../README.md). Search for a Swedish historic place, browse a curated Leaflet map, and open a detail drawer that shows period-appropriate music and literature alongside an editorial note.
+React + Vite + TypeScript single-page client for [roadtripkartan](../README.md). Search for a Swedish historic place and find information directly from the Swedish National Heritage Board webservice API SOCH (Swedish Open Cultural Heritage, or K-samsök in Swedish) or browse a curated Leaflet map, and open a detail drawer that shows period-appropriate music and literature alongside an editorial note.
 
 ## Stack
 
 - **Vite 8** as build tool and dev server
 - **React 19** + TypeScript
 - **react-leaflet 5** / **leaflet 1.9** for the map
+- **.NET Web API (separate backend)
 - All HTTP traffic uses the platform `fetch` (no `axios` or other client)
+- Swedish Cultural Heritage Board SOCH API
+- Litteraturbanken
+- MusicBrainz
 
 ## Scripts
 
 ```bash
 npm install
-npm run dev      # start Vite at http://localhost:5173 (proxies /api → :5236)
+npm run dev      # start Vite 
 npm run build    # production build to dist/
 npm run preview  # preview the production build
 npm run lint     # ESLint over the project
@@ -23,7 +27,7 @@ Requires Node 20+ (Vite 8 baseline).
 
 ## Talking to the API
 
-The Vite dev server proxies `/api/*` to `http://localhost:5236` (see `vite.config.ts`). All HTTP traffic to the backend goes through `src/services/sitesService.ts` — three thin functions returning typed promises:
+All HTTP traffic to the backend goes through `src/services/sitesService.ts` — three thin functions returning typed promises:
 
 ```ts
 searchSites(query: string): Promise<SiteResult[]>
@@ -31,11 +35,10 @@ fetchMusicByDateRange(fromYear, toYear): Promise<MusicWork[]>
 fetchLiteratureByDateRange(fromYear, toYear): Promise<LiteraryWork[]>
 ```
 
-If you need to point the client at a deployed API, change the proxy target (dev) or read a `VITE_API_BASE_URL` env var and prefix it to the fetch URLs (prod). That env var doesn't exist yet — adding it is on the deploy checklist.
 
 ## State flow
 
-State lives in `App.tsx`. There's no Redux/Zustand/etc — the app is small enough that `useState` is fine.
+State lives in `App.tsx`. 
 
 ```
 User searches              ─►  handleSearch
