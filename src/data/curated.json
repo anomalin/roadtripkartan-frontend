@@ -284,5 +284,17 @@
         "lat": 59.2560,
         "lon": 17.2199,
         "image": "/images/gripsholm.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000585923": {
+    "name": "Trollenäs slott",
+    "periodLabel": "Historieromantik och skånsk godskultur",
+    "dateRange": [
+        1880,
+        1910
+    ],
+    "editorialNote": "Det sena 1800-talets Sverige drömde om medeltiden. Inte den verkliga medeltiden — med smuts, pest och latinska klosterskrifter - utan en romantiserad version: tornspirorna, borgarna, riddarna, den starka ätten med rötter i forntiden. Trollenäs är denna dröms mest påkostade skånska uttryck. Nils Trolle anlitade den danske arkitekten Ferdinand Meldahl - samme man som restaurerat Frederiksborg i Danmark - och lät honom förvandla en gammal tegelborg till ett franskinspirerat renässanspalats. Interiörerna anförtroddes Agi Lindegren, vars förebild var Drottningholm. Resultatet är ett slott som ser medeltida ut men är djupt 1890-tal: historieromantikens arkitektur, nationalismens estetik, godsägarklassens självbild i granit och skiffer. På väggarna ett huvudlöst troll i mörkt tegel mot rött - ättens vapenbild sedan sekler.",
+    "lat": 55.8659,
+    "lon": 13.2446,
+    "image": "/images/trollenas.png"
     }
 }
