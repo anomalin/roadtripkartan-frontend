@@ -96,7 +96,7 @@ const DetailPanel: FC<Props> = ({ site, music, isMusicLoading, literature, isLit
             paddingLeft: '1rem',
             margin: '0 0 1.5rem',
           }}>
-            {site.description.slice(0, 5000)}{site.description.length > 5000 ? '…' : ''}
+            {site.description.slice(0, 8000)}{site.description.length > 8000 ? '…' : ''}
           </p>
         )}
 
