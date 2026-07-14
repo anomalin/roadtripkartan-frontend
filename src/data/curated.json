@@ -172,105 +172,117 @@
             1650,
             1700
         ],
-    "editorialNote": "Sverige var på 1650-talet en militär supermakt - och få män förkroppsligade det faktum lika tydligt som fältmarskalken Carl Gustaf Wrangel. Med segrar från trettioåriga kriget i ryggen och en av landets största privata förmögenheter beställde han 1654 ett slott vid Mälarens strand som inte skulle lämna någon i tvivel om vem han var. Arkitekten Caspar Vogel lade grunden, Jean de la Vallée och Nicodemus Tessin den äldre förfinade formerna - resultatet blev stormaktstidens största privata byggprojekt i landet, ett fyrtornat barockpalats vars interiörer fylldes med krigsbyten, vapen, konst och textilier hämtade från ett halvt kontinents slott och kyrkor. Wrangel dog 1676 och hantverkarna lade ned sina verktyg. Den stora bankettsalen i västra längan stod - och står fortfarande - oavslutad, med snickarbänkar och ställningar kvar som ett fruset ögonblick ur en 1600-talsbyggarbod. Skokloster är inte bara ett av Europas förnämsta barockslott. Det är stormaktssveriges självporträtt i sten.",
-    "lat":59.7030,
-    "lon": 17.6213,
-    "image": "/images/skokloster.png" 
+        "editorialNote": "Sverige var på 1650-talet en militär supermakt - och få män förkroppsligade det faktum lika tydligt som fältmarskalken Carl Gustaf Wrangel. Med segrar från trettioåriga kriget i ryggen och en av landets största privata förmögenheter beställde han 1654 ett slott vid Mälarens strand som inte skulle lämna någon i tvivel om vem han var. Arkitekten Caspar Vogel lade grunden, Jean de la Vallée och Nicodemus Tessin den äldre förfinade formerna - resultatet blev stormaktstidens största privata byggprojekt i landet, ett fyrtornat barockpalats vars interiörer fylldes med krigsbyten, vapen, konst och textilier hämtade från ett halvt kontinents slott och kyrkor. Wrangel dog 1676 och hantverkarna lade ned sina verktyg. Den stora bankettsalen i västra längan stod - och står fortfarande - oavslutad, med snickarbänkar och ställningar kvar som ett fruset ögonblick ur en 1600-talsbyggarbod. Skokloster är inte bara ett av Europas förnämsta barockslott. Det är stormaktssveriges självporträtt i sten.",
+        "lat": 59.7030,
+        "lon": 17.6213,
+        "image": "/images/skokloster.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000583230": {
-    "name": "Carl Larsson-gården",
-    "periodLabel": "Nationalromantik och det svenska folkhemmet i vardande",
-    "dateRange": [
-        1888,
-        1919
+        "name": "Carl Larsson-gården",
+        "periodLabel": "Nationalromantik och det svenska folkhemmet i vardande",
+        "dateRange": [
+            1888,
+            1919
         ],
-    "editorialNote": "När konstnären Carl Larsson och författaren Karin Larsson tog över gården Lilla Hyttnäs i Sundborn under 1880-talet skapade de något som skulle få betydelse långt utanför Dalarnas gränser. Här formades ett ideal för det svenska hemmet: ljust, personligt och fyllt av hantverk, färg och familjeliv. Carl Larssons akvareller från gården spreds internationellt och gjorde interiörerna till sinnebilden av svensk hemtrevnad, medan Karin Larssons djärva möblering, textilier och formgivning förebådade mycket av 1900-talets svenska design. I en tid när industrialiseringen förändrade samhället blev Sundborn en motbild - ett konstnärshem där vardagen förvandlades till konst och där bilden av Sverige som nation fick ett av sina mest bestående uttryck.",
-    "lat": 60.6502,
-    "lon": 15.7760,
-    "image": "/images/sundborn.png"
+        "editorialNote": "När konstnären Carl Larsson och författaren Karin Larsson tog över gården Lilla Hyttnäs i Sundborn under 1880-talet skapade de något som skulle få betydelse långt utanför Dalarnas gränser. Här formades ett ideal för det svenska hemmet: ljust, personligt och fyllt av hantverk, färg och familjeliv. Carl Larssons akvareller från gården spreds internationellt och gjorde interiörerna till sinnebilden av svensk hemtrevnad, medan Karin Larssons djärva möblering, textilier och formgivning förebådade mycket av 1900-talets svenska design. I en tid när industrialiseringen förändrade samhället blev Sundborn en motbild - ett konstnärshem där vardagen förvandlades till konst och där bilden av Sverige som nation fick ett av sina mest bestående uttryck.",
+        "lat": 60.6502,
+        "lon": 15.7760,
+        "image": "/images/sundborn.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21300000013181": {
-    "name": "Curmanska villorna",
-    "periodLabel": "Badortsepoken och sekelskiftets villakultur",
-    "dateRange": [
-        1875,
-        1910
+        "name": "Curmanska villorna",
+        "periodLabel": "Badortsepoken och sekelskiftets villakultur",
+        "dateRange": [
+            1875,
+            1910
         ],
-    "editorialNote": "Curmanska villorna i Lysekil uppfördes i en tid då västkusten utvecklades till en av Sveriges främsta badorter. Den första villan byggdes 1875 av badläkaren Carl Curman som en del av det framväxande kur- och badlivet i Lysekil. Efter en brand återuppfördes huvudvillan 1880 i en mer utarbetad fornnordiskt inspirerad stil, tillsammans med en mindre villa avsedd för familj och tjänstefolk. Anläggningen blev ett tydligt uttryck för den sena 1800-talets ideal där hälsa, natur och nationalromantik vävdes samman i arkitekturen. Villorna är fortfarande ett av de mest karaktäristiska exemplen på den svenska badortskulturen från sekelskiftet och har bevarats som byggnadsminne.",
-    "lat": 58.2749,
-    "lon": 11.4381,
-    "image": "/images/curmanska_villan.png"
+        "editorialNote": "Curmanska villorna i Lysekil uppfördes i en tid då västkusten utvecklades till en av Sveriges främsta badorter. Den första villan byggdes 1875 av badläkaren Carl Curman som en del av det framväxande kur- och badlivet i Lysekil. Efter en brand återuppfördes huvudvillan 1880 i en mer utarbetad fornnordiskt inspirerad stil, tillsammans med en mindre villa avsedd för familj och tjänstefolk. Anläggningen blev ett tydligt uttryck för den sena 1800-talets ideal där hälsa, natur och nationalromantik vävdes samman i arkitekturen. Villorna är fortfarande ett av de mest karaktäristiska exemplen på den svenska badortskulturen från sekelskiftet och har bevarats som byggnadsminne.",
+        "lat": 58.2749,
+        "lon": 11.4381,
+        "image": "/images/curmanska_villan.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000143244": {
-    "name": "Ellen Keys strand",
-    "periodLabel": "Tidig modernism och sekelskiftets bildningsideal",
-    "dateRange": [
-        1910,
-        1926
-        ],    
-    "editorialNote": "Ellen Keys Strand vid Omberg uppfördes 1910-1911 som ett personligt hem åt författaren och pedagogen Ellen Key. Huset ritades med inspiration från jugend, klassiska italienska villor och svensk herrgårdstradition, och speglar Keys idéer om ljus, enkelhet och skönhet i vardagen. Strand blev hennes sista hem och en plats där hon utvecklade sina tankar om bildning, estetik och socialt ansvar. Efter hennes död 1926 donerades egendomen till en stiftelse med uppdrag att bevara miljön och göra den tillgänglig för allmänheten. Idag står Strand kvar som ett av de mest betydelsefulla svenska författarhemmen från tidigt 1900-tal.",
-    "lat": 58.2946,
-    "lon": 14.6396,
-    "image": "/images/ellenkey.png"
+        "name": "Ellen Keys strand",
+        "periodLabel": "Tidig modernism och sekelskiftets bildningsideal",
+        "dateRange": [
+            1910,
+            1926
+        ],
+        "editorialNote": "Ellen Keys Strand vid Omberg uppfördes 1910-1911 som ett personligt hem åt författaren och pedagogen Ellen Key. Huset ritades med inspiration från jugend, klassiska italienska villor och svensk herrgårdstradition, och speglar Keys idéer om ljus, enkelhet och skönhet i vardagen. Strand blev hennes sista hem och en plats där hon utvecklade sina tankar om bildning, estetik och socialt ansvar. Efter hennes död 1926 donerades egendomen till en stiftelse med uppdrag att bevara miljön och göra den tillgänglig för allmänheten. Idag står Strand kvar som ett av de mest betydelsefulla svenska författarhemmen från tidigt 1900-tal.",
+        "lat": 58.2946,
+        "lon": 14.6396,
+        "image": "/images/ellenkey.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000585103": {
-    "name": "Mårbacka",
-    "periodLabel": "Nationalromantik och det litterära sekelskiftet",
-    "dateRange": [
-        1890,
-        1930
-    ],
-    "editorialNote": "Mårbacka i Värmland är starkt förknippat med författaren Selma Lagerlöf, som föddes här 1858 och senare kom att återvända och forma gården till sitt hem och sin arbetsplats. Under början av 1900-talet, efter Nobelpriset i litteratur 1909, kunde Lagerlöf genomföra omfattande om- och tillbyggnader som gav Mårbacka dess nuvarande karaktär av herrgårdsliknande författarhem. Arkitekturen och miljön speglar både nationalromantikens ideal och hennes egen litterära värld, där landskapet, berättandet och historien flätas samman. Efter hennes död 1940 bevarades Mårbacka som minnesgård och är idag ett av Sveriges mest välkända författarhem.",
-    "lat": 59.7809,
-    "lon": 13.2330,
-    "image": "/images/marbacka.png"
+        "name": "Mårbacka",
+        "periodLabel": "Nationalromantik och det litterära sekelskiftet",
+        "dateRange": [
+            1890,
+            1930
+        ],
+        "editorialNote": "Mårbacka i Värmland är starkt förknippat med författaren Selma Lagerlöf, som föddes här 1858 och senare kom att återvända och forma gården till sitt hem och sin arbetsplats. Under början av 1900-talet, efter Nobelpriset i litteratur 1909, kunde Lagerlöf genomföra omfattande om- och tillbyggnader som gav Mårbacka dess nuvarande karaktär av herrgårdsliknande författarhem. Arkitekturen och miljön speglar både nationalromantikens ideal och hennes egen litterära värld, där landskapet, berättandet och historien flätas samman. Efter hennes död 1940 bevarades Mårbacka som minnesgård och är idag ett av Sveriges mest välkända författarhem.",
+        "lat": 59.7809,
+        "lon": 13.2330,
+        "image": "/images/marbacka.png"
     },
     "http://kulturarvsdata.se/raa/bbrb/21420000047762": {
-    "name": "Högbondens fyr",
-    "periodLabel": "Skärgårdsutveckling och kustsjöfartens expansion",
-    "dateRange": [
-        1900,
-        1950
+        "name": "Högbondens fyr",
+        "periodLabel": "Skärgårdsutveckling och kustsjöfartens expansion",
+        "dateRange": [
+            1900,
+            1950
         ],
-    "editorialNote": "Högbondens fyrplats på Höga Kusten är en av Sveriges mest välbevarade fyrmiljöer och uppfördes 1909 som en del av statens utbyggnad av kustbelysning för att möta den ökande sjöfarten längs Norrlandskusten. Fyren ritades av Lars Johan Lehming och placerades på en dramatisk ö i Ångermanlands skärgård, där den tjänade som viktig navigationspunkt för fartyg genom Bottenhavet. Fyrvaktarbostäderna och den kringliggande miljön speglar det isolerade livet vid sekelskiftets fyrstationer, där arbete och vardag var tätt knutna till havets villkor. Fyrplatsen var i drift fram till 1996 och är idag ett byggnadsminne och ett välbesökt besöksmål i världsarvet Höga Kusten.",
-    "lat": 62.8660,
-    "lon": 18.4779,
-    "image": "/images/hogbonden.png"
+        "editorialNote": "Högbondens fyrplats på Höga Kusten är en av Sveriges mest välbevarade fyrmiljöer och uppfördes 1909 som en del av statens utbyggnad av kustbelysning för att möta den ökande sjöfarten längs Norrlandskusten. Fyren ritades av Lars Johan Lehming och placerades på en dramatisk ö i Ångermanlands skärgård, där den tjänade som viktig navigationspunkt för fartyg genom Bottenhavet. Fyrvaktarbostäderna och den kringliggande miljön speglar det isolerade livet vid sekelskiftets fyrstationer, där arbete och vardag var tätt knutna till havets villkor. Fyrplatsen var i drift fram till 1996 och är idag ett byggnadsminne och ett välbesökt besöksmål i världsarvet Höga Kusten.",
+        "lat": 62.8660,
+        "lon": 18.4779,
+        "image": "/images/hogbonden.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000394537": {
-    "name": "Kalmar slott",
-    "periodLabel": "Medeltida maktcentrum och vasatidens befästningsarkitektur",
-    "dateRange": [
-        1200,
-        1600
+        "name": "Kalmar slott",
+        "periodLabel": "Medeltida maktcentrum och vasatidens befästningsarkitektur",
+        "dateRange": [
+            1200,
+            1600
         ],
-    "editorialNote": "Kalmar slott är ett av Sveriges mest betydelsefulla historiska fästen och har spelat en central roll i landets politiska historia sedan medeltiden. Den första befästningen på platsen anlades redan under 1100-1200-talet, men slottet fick sin nuvarande karaktär under 1500-talet då Vasaätten omvandlade det till en modern renässansfästning. Här ägde viktiga historiska händelser rum, inte minst bildandet av Kalmarunionen 1397 som förenade de nordiska rikena under en gemensam krona. Under århundradena har slottet fungerat både som försvarsanläggning, kungligt residens och administrativt centrum. Idag är det ett av Sveriges bäst bevarade slott och en tydlig symbol för landets medeltida och tidigmoderna historia.",
-    "lat": 56.6580,
-    "lon": 16.3553,
-    "image": "/images/kalmarslott.png"    
+        "editorialNote": "Kalmar slott är ett av Sveriges mest betydelsefulla historiska fästen och har spelat en central roll i landets politiska historia sedan medeltiden. Den första befästningen på platsen anlades redan under 1100-1200-talet, men slottet fick sin nuvarande karaktär under 1500-talet då Vasaätten omvandlade det till en modern renässansfästning. Här ägde viktiga historiska händelser rum, inte minst bildandet av Kalmarunionen 1397 som förenade de nordiska rikena under en gemensam krona. Under århundradena har slottet fungerat både som försvarsanläggning, kungligt residens och administrativt centrum. Idag är det ett av Sveriges bäst bevarade slott och en tydlig symbol för landets medeltida och tidigmoderna historia.",
+        "lat": 56.6580,
+        "lon": 16.3553,
+        "image": "/images/kalmarslott.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000357321": {
-    "name": "Bäckaskogs slott",
-    "periodLabel": "Skånsk slottsmiljö och romantiserad herrgårdshistoria",
-    "dateRange": [
-        1600,
-        1920
+        "name": "Bäckaskogs slott",
+        "periodLabel": "Skånsk slottsmiljö och romantiserad herrgårdshistoria",
+        "dateRange": [
+            1600,
+            1920
         ],
-    "editorialNote": "Bäckaskogs slott i Skåne har sina rötter i medeltiden då platsen var ett kloster, men omvandlades under 1600-talet till ett kungligt slott efter reformationen. Under de följande århundradena användes anläggningen både som kunglig jaktgård och militärt stödjepunkt i det strategiskt viktiga gränslandskapet mellan Danmark och Sverige. På 1800-talet fick slottet en mer romantiserad karaktär genom om- och tillbyggnader i tidens historiserande stilideal, vilket förstärkte dess herrgårdsliknande uttryck. Slottet är också känt för sina kopplingar till kung Oscar II, som vistades här regelbundet. Idag är Bäckaskog ett välbevarat exempel på hur skånska slottsmiljöer formats av både krig, politik och senare sekelskiftets kulturideal.",
-    "lat": 56.0849,
-    "lon": 14.3494,
-    "image": "/images/backaskogslott.png"
+        "editorialNote": "Bäckaskogs slott i Skåne har sina rötter i medeltiden då platsen var ett kloster, men omvandlades under 1600-talet till ett kungligt slott efter reformationen. Under de följande århundradena användes anläggningen både som kunglig jaktgård och militärt stödjepunkt i det strategiskt viktiga gränslandskapet mellan Danmark och Sverige. På 1800-talet fick slottet en mer romantiserad karaktär genom om- och tillbyggnader i tidens historiserande stilideal, vilket förstärkte dess herrgårdsliknande uttryck. Slottet är också känt för sina kopplingar till kung Oscar II, som vistades här regelbundet. Idag är Bäckaskog ett välbevarat exempel på hur skånska slottsmiljöer formats av både krig, politik och senare sekelskiftets kulturideal.",
+        "lat": 56.0849,
+        "lon": 14.3494,
+        "image": "/images/backaskogslott.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000357635": {
-    "name": "Ornässtugan",
-    "periodLabel": "Vasatiden och stormaktstidens träbyggnadskultur",
-    "dateRange": [
-        1500,
-        1650
-    ],
-    "editorialNote": "Ornässtugan i Dalarna är en av Sveriges mest kända medeltida timmerbyggnader och är starkt förknippad med Gustav Vasas flykt från danska trupper år 1520. Enligt traditionen gömde han sig i byggnaden under sin färd genom Dalarna, en händelse som fått stor symbolisk betydelse i svensk historieskrivning. Stugan är uppförd i början av 1500-talet och representerar en av de äldsta bevarade profana träbyggnaderna i landet. Arkitekturen speglar dalarnas byggnadstraditioner under senmedeltid och tidig vasatid, med timmerkonstruktioner och interiörer som ger en unik inblick i vardagsliv och samhällsstruktur under perioden. Idag fungerar Ornässtugan som museum och kulturhistoriskt minnesmärke.",
-    "lat": 60.5070,
-    "lon": 15.5528,
-    "image": "/images/ornas.png"
+        "name": "Ornässtugan",
+        "periodLabel": "Vasatiden och stormaktstidens träbyggnadskultur",
+        "dateRange": [
+            1500,
+            1650
+        ],
+        "editorialNote": "Ornässtugan i Dalarna är en av Sveriges mest kända medeltida timmerbyggnader och är starkt förknippad med Gustav Vasas flykt från danska trupper år 1520. Enligt traditionen gömde han sig i byggnaden under sin färd genom Dalarna, en händelse som fått stor symbolisk betydelse i svensk historieskrivning. Stugan är uppförd i början av 1500-talet och representerar en av de äldsta bevarade profana träbyggnaderna i landet. Arkitekturen speglar dalarnas byggnadstraditioner under senmedeltid och tidig vasatid, med timmerkonstruktioner och interiörer som ger en unik inblick i vardagsliv och samhällsstruktur under perioden. Idag fungerar Ornässtugan som museum och kulturhistoriskt minnesmärke.",
+        "lat": 60.5070,
+        "lon": 15.5528,
+        "image": "/images/ornas.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000356613": {
+        "name": "Gripsholms slott",
+        "periodLabel": "Vasatid och dynastins dramer",
+        "dateRange": [
+            1537,
+            1600
+        ],
+        "editorialNote": "Det finns slott som byggdes för att imponera, och det finns slott som byggdes för att dominera. Gustav Vasa lät 1537 riva det gamla klostret på Gripsholmsholmen och reste i dess ställe en försvarsborg i rött tegel - en maktdemonstration i sten vid Mälarens strand. Men det är hans söner som verkligen satte sin prägel på platsen - och de satte den med fångkedjor. Erik XIV, som smyckat slottet med renässansens elegans, hölls här fången av brodern Johan III. Johan III, som färdigställde det Erik påbörjat, hölls här fången av brodern Karl. Gripsholm är vasasönernas ödesgemenskap i sten: varje rum bär spår av en broder som byggde och en broder som fängslade. Porträttgalleriet på väggarna stirrar tillbaka - kungar, drottningar, riksråd - alla delar av samma blodiga dynastiska drama.",
+        "lat": 59.2560,
+        "lon": 17.2199,
+        "image": "/images/gripsholm.png"
     }
 }
