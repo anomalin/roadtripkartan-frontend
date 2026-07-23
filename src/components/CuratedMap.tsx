@@ -51,7 +51,7 @@ const CuratedMap: FC<Props> = ({ curated, onSelect }) => {
                     color: 'var(--color-text-tertiary)',
                     whiteSpace: 'nowrap',
                 }}>
-                    Kurerade platser
+                    Kuraterade platser
                 </span>
                 <div style={{
                     flex: 1,

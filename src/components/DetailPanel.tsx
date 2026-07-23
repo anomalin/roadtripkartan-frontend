@@ -174,7 +174,7 @@ const DetailPanel: FC<Props> = ({ site, music, isMusicLoading, literature, isLit
 
         {!site.curated && (
           <p style={{ fontSize: '13px', fontStyle: 'italic', color: 'var(--color-text-tertiary)' }}>
-            Ingen kurerad data tillgänglig för denna plats ännu.
+            Ingen kuraterad data tillgänglig för denna plats ännu.
           </p>
         )}
         <a href={getDirectionsUrl(site.lat!, site.lon!)} target="_blank" rel="noreferrer" style={{ fontSize: '13px', fontStyle: 'italic', color: 'var(--color-text-tertiary)' }}>
