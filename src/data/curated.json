@@ -286,15 +286,27 @@
         "image": "/images/gripsholm.png"
     },
     "http://kulturarvsdata.se/raa/bbr/21400000585923": {
-    "name": "Trollenäs slott",
-    "periodLabel": "Historieromantik och skånsk godskultur",
-    "dateRange": [
-        1880,
-        1910
-    ],
-    "editorialNote": "Det sena 1800-talets Sverige drömde om medeltiden. Inte den verkliga medeltiden — med smuts, pest och latinska klosterskrifter - utan en romantiserad version: tornspirorna, borgarna, riddarna, den starka ätten med rötter i forntiden. Trollenäs är denna dröms mest påkostade skånska uttryck. Nils Trolle anlitade den danske arkitekten Ferdinand Meldahl - samme man som restaurerat Frederiksborg i Danmark - och lät honom förvandla en gammal tegelborg till ett franskinspirerat renässanspalats. Interiörerna anförtroddes Agi Lindegren, vars förebild var Drottningholm. Resultatet är ett slott som ser medeltida ut men är djupt 1890-tal: historieromantikens arkitektur, nationalismens estetik, godsägarklassens självbild i granit och skiffer. På väggarna ett huvudlöst troll i mörkt tegel mot rött - ättens vapenbild sedan sekler.",
-    "lat": 55.8659,
-    "lon": 13.2446,
-    "image": "/images/trollenas.png"
+        "name": "Trollenäs slott",
+        "periodLabel": "Historieromantik och skånsk godskultur",
+        "dateRange": [
+            1880,
+            1910
+        ],
+        "editorialNote": "Det sena 1800-talets Sverige drömde om medeltiden. Inte den verkliga medeltiden — med smuts, pest och latinska klosterskrifter - utan en romantiserad version: tornspirorna, borgarna, riddarna, den starka ätten med rötter i forntiden. Trollenäs är denna dröms mest påkostade skånska uttryck. Nils Trolle anlitade den danske arkitekten Ferdinand Meldahl - samme man som restaurerat Frederiksborg i Danmark - och lät honom förvandla en gammal tegelborg till ett franskinspirerat renässanspalats. Interiörerna anförtroddes Agi Lindegren, vars förebild var Drottningholm. Resultatet är ett slott som ser medeltida ut men är djupt 1890-tal: historieromantikens arkitektur, nationalismens estetik, godsägarklassens självbild i granit och skiffer. På väggarna ett huvudlöst troll i mörkt tegel mot rött - ättens vapenbild sedan sekler.",
+        "lat": 55.8659,
+        "lon": 13.2446,
+        "image": "/images/trollenas.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000690023": {
+        "name": "Rosersbergs slott",
+        "periodLabel": "Gustaviansk tid och det kungliga 1700-talet",
+        "dateRange": [
+            1770,
+            1830
+        ],
+        "editorialNote": "När Gustav III förvandlade det svenska hovet till en scen för upplysningens idéer, teater och konst blev också livet kring de kungliga slotten en del av den nya tidens uttryck. På Rosersberg levde hertig Karl – den blivande Karl XIII – och Hedvig Elisabet Charlotta, vars dagböcker idag hör till de viktigaste skildringarna av det gustavianska Sverige. Genom hennes ögon framträder ett hov präglat av politiska intriger, praktfulla maskeradbaler och en tid då revolutionens idéer från Europa började utmana den gamla ordningen. Rosersberg blev en plats där upplysningens ideal mötte den svenska monarkin, precis innan 1800-talet förändrade landet i grunden.",
+        "lat": 59.5742,
+        "lon": 17.8444,
+        "image": "/images/rosersberg.png"
     }
 }
