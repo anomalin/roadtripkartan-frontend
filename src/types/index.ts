@@ -44,3 +44,13 @@ export interface CuratedData {
   lon: number
   image?: string
 }
+
+export interface Artifact {
+  id: string | null
+  title: string | null
+  description: string | null
+  thumbnailUrl: string | null
+  sourceUrl: string | null
+  institution: string | null
+  year: string | null
+}

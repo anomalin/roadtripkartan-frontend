@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import type { SiteResult, EnrichedSite, CuratedData, MusicWork, LiteraryWork } from './types'
-import { fetchMusicByDateRange, searchSites, fetchLiteratureByDateRange, fetchSiteById } from './services/sitesService'
+import type { SiteResult, EnrichedSite, CuratedData, MusicWork, LiteraryWork, Artifact } from './types'
+import { fetchMusicByDateRange, searchSites, fetchLiteratureByDateRange, fetchSiteById, fetchArtifactsByDateRange } from './services/sitesService'
 import Header from './components/Header'
 import SearchBar from './components/SearchBar'
 import SiteGrid from './components/SiteGrid'
@@ -28,6 +28,8 @@ function App() {
   const [literature, setLiterature] = useState<LiteraryWork[]>([])
   const [isLiteratureLoading, setIsLiteratureLoading] = useState(false)
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
+  const [artifacts, setArtifacts] = useState<Artifact[]>([])
+  const [isArtifactsLoading, setIsArtifactsLoading] = useState(false)
 
   const handleSearch = async (query: string) => {
     setIsLoading(true)
@@ -57,11 +59,20 @@ function App() {
 
     setIsMusicLoading(true)
     setIsLiteratureLoading(true)
+    setIsArtifactsLoading(true)
 
-    const [musicResult, literatureResult] = await Promise.allSettled([
+    const [musicResult, literatureResult, artifactsResult] = await Promise.allSettled([
       fetchMusicByDateRange(dateRange[0], dateRange[1]),
       fetchLiteratureByDateRange(dateRange[0], dateRange[1]),
+      fetchArtifactsByDateRange(dateRange[0], dateRange[1])
     ])
+
+    if (artifactsResult.status === 'fulfilled') {
+      setArtifacts(artifactsResult.value)
+    } else {
+      console.error('Artifacts fetch failed:', artifactsResult.reason)
+    }
+    setIsArtifactsLoading(false)
 
     if (musicResult.status === 'fulfilled') {
       setMusic(musicResult.value)
@@ -78,27 +89,27 @@ function App() {
     setIsLiteratureLoading(false)
   }
 
-const handleMapSelect = async (id: string) => {
-  setIsLoading(true)
-  setMusic([])
-  setLiterature([])
-  setSites([])
-  setIsDrawerOpen(true)
+  const handleMapSelect = async (id: string) => {
+    setIsLoading(true)
+    setMusic([])
+    setLiterature([])
+    setSites([])
+    setIsDrawerOpen(true)
 
-  try {
-    const site = await fetchSiteById(id)
+    try {
+      const site = await fetchSiteById(id)
 
-    setSites([site])
+      setSites([site])
 
-    await handleSelect(site)
-    
+      await handleSelect(site)
 
-  } catch (err) {
-    console.error('Map site fetch failed', err)
-  } finally {
-    setIsLoading(false)
+
+    } catch (err) {
+      console.error('Map site fetch failed', err)
+    } finally {
+      setIsLoading(false)
+    }
   }
-}
 
   return (
     <div>
@@ -114,22 +125,24 @@ const handleMapSelect = async (id: string) => {
           {error}
         </p>
       )}
-          <CuratedMap curated={CURATED} onSelect={handleMapSelect} />
+      <CuratedMap curated={CURATED} onSelect={handleMapSelect} />
       <SiteGrid
         sites={sites}
         activeSite={activeSite}
         onSelect={handleSelect}
       />
       <Drawer isOpen={isDrawerOpen} onClose={() => setIsDrawerOpen(false)}>
-      {activeSite && (
-        <DetailPanel
-          site={activeSite}
-          music={music}
-          isMusicLoading={isMusicLoading}
-          literature={literature}
-          isLiteratureLoading={isLiteratureLoading}
-        />
-      )}</Drawer>
+        {activeSite && (
+          <DetailPanel
+            site={activeSite}
+            music={music}
+            isMusicLoading={isMusicLoading}
+            literature={literature}
+            isLiteratureLoading={isLiteratureLoading}
+            artifacts={artifacts}
+            isArtifactsLoading={isArtifactsLoading}
+          />
+        )}</Drawer>
     </div>
   )
 }

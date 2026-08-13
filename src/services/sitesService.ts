@@ -1,7 +1,7 @@
 // src/services/sitesService.ts
 const API_URL = import.meta.env.VITE_API_URL
 
-import type { LiteraryWork, MusicWork, SiteResult } from '../types'
+import type { LiteraryWork, MusicWork, SiteResult, Artifact } from '../types'
 
 export async function searchSites(query: string): Promise<SiteResult[]> {
   const response = await fetch(`${API_URL}/api/sites/search?q=${encodeURIComponent(query)}`)
@@ -40,5 +40,17 @@ export async function fetchLiteratureByDateRange(
 ): Promise<LiteraryWork[]> {
   const response = await fetch(`${API_URL}/api/literature?fromYear=${fromYear}&toYear=${toYear}`)
   if (!response.ok) throw new Error('Literature fetch failed')
+  return response.json()
+}
+
+export async function fetchArtifactsByDateRange(
+  fromYear: number,
+  toYear: number,
+  category: string = 'furniture'
+): Promise<Artifact[]> {
+  const response = await fetch(
+    `${API_URL}/api/artifacts?fromYear=${fromYear}&toYear=${toYear}&category=${category}`
+  )
+  if (!response.ok) throw new Error('Artifacts fetch failed')
   return response.json()
 }
