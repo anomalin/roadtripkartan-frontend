@@ -33,6 +33,7 @@ All HTTP traffic to the backend goes through `src/services/sitesService.ts` — 
 searchSites(query: string): Promise<SiteResult[]>
 fetchMusicByDateRange(fromYear, toYear): Promise<MusicWork[]>
 fetchLiteratureByDateRange(fromYear, toYear): Promise<LiteraryWork[]>
+fetchArtifacts(fromYear, toYear, category): Promise<Artifact[]>
 ```
 
 
@@ -51,6 +52,7 @@ User clicks a SiteCard     ─►  handleSelect(site)
                                   └─ Promise.allSettled([
                                        fetchMusicByDateRange(...),
                                        fetchLiteratureByDateRange(...),
+                                       fetchArtifactsByDateRange(...),
                                      ])
 
 User clicks a map marker   ─►  handleMapSelect(id)
@@ -94,7 +96,7 @@ src/components/
 ├── SiteGrid.tsx     — Grid of SiteCards from search results
 ├── SiteCard.tsx     — Single site preview (name, coords, thumbnail)
 ├── Drawer.tsx       — Slide-in panel that hosts the detail view
-└── DetailPanel.tsx  — Site details + music list + literature list
+└── DetailPanel.tsx  — Site details + music list + literature list + artifacts list
 ```
 
 ## Types
@@ -104,6 +106,7 @@ Shared types live in `src/types/index.ts` and mirror the API DTOs:
 - `SiteResult` — what `/api/sites/search` returns
 - `MusicWork` — what `/api/music` returns
 - `LiteraryWork` — what `/api/literature` returns
+- `Artifact` - what `/api/artifact` returns
 - `CuratedData` — shape of one `curated.json` entry
 - `EnrichedSite extends SiteResult` — a `SiteResult` with an optional `curated: CuratedData`
 
