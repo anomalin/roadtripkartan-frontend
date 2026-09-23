@@ -308,5 +308,29 @@
         "lat": 59.5742,
         "lon": 17.8444,
         "image": "/images/rosersberg.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21400000581082": {
+        "name": "Biografteatern Svea",
+        "periodLabel": "Den tidiga biografkulturen, 1900-talets början",
+        "dateRange": [
+                1900,
+                1920
+        ],
+        "editorialNote": "När filmen slog igenom i början av 1900-talet blev biografen en ny plats för både underhållning och gemensamma upplevelser. I Sundsvall visades rörliga bilder redan på 1890-talet, men under 1900-talets första decennium växte en fast biografkultur fram. På Svea kunde publiken se korta dramatiska och komiska filmer, musik- och sångnummer och inte minst bilder från det egna närområdet. Att få se Sundsvalls gator, människor och vardagsliv på film gav den nya tekniken en lokal förankring och gjorde staden själv till en del av föreställningen.",
+        "lat": 62.3891,
+        "lon": 17.3083,
+        "image": "/images/sveateatern.png"
+    },
+    "http://kulturarvsdata.se/raa/bbr/21300000026402": {
+        "name": "Glashusen i Kosta",
+        "periodLabel": "Konstnärerna kommer till glasbruken",
+        "dateRange":[
+            1890,
+            1940
+        ],
+        "editorialNote": "Vid sekelskiftet 1900 började svenska glasbruk i allt högre grad samarbeta med konstnärer och formgivare för att förena hantverk och industriell produktion med konstnärlig formgivning. Kosta var tidigt ute och knöt 1898 konstnären Gunnar Wennerberg till bruket som konstnärlig ledare. Det markerade en förändring i synen på glaset, från bruksföremål till ett material där form, färg och konstnärligt uttryck fick en allt större betydelse. Under de följande decennierna kom konstnärernas nära samarbete med glasbruken att bli kännetecknande för den svenska glasindustrin och lade grunden för det som senare blev känt som svenskt konstglas.",
+        "lat": 56.8506,
+        "lon": 15.3982,
+        "image": "/images/glashusen.png"
     }
 }
