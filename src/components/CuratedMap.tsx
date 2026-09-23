@@ -73,7 +73,7 @@ const CuratedMap: FC<Props> = ({ curated, onSelect }) => {
             >
                 <TileLayer
                     attribution='&copy; <a href="https://carto.com/">CARTO</a>'
-                    url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
+                    url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_3uvh_1_3920882aa05dfb2f14f95e80"
                 />
                 {entries.map(entry => (
                     <Marker
