@@ -323,12 +323,12 @@
     },
     "http://kulturarvsdata.se/raa/bbr/21300000026402": {
         "name": "Glashusen i Kosta",
-        "periodLabel": "Konstnärerna kommer till glasbruken",
+        "periodLabel": "Modernism och svenskt konstglas",
         "dateRange":[
-            1890,
-            1940
+            1940,
+            1955
         ],
-        "editorialNote": "Vid sekelskiftet 1900 började svenska glasbruk i allt högre grad samarbeta med konstnärer och formgivare för att förena hantverk och industriell produktion med konstnärlig formgivning. Kosta var tidigt ute och knöt 1898 konstnären Gunnar Wennerberg till bruket som konstnärlig ledare. Det markerade en förändring i synen på glaset, från bruksföremål till ett material där form, färg och konstnärligt uttryck fick en allt större betydelse. Under de följande decennierna kom konstnärernas nära samarbete med glasbruken att bli kännetecknande för den svenska glasindustrin och lade grunden för det som senare blev känt som svenskt konstglas.",
+        "editorialNote": "Vid sekelskiftet 1900 började svenska glasbruk i allt högre grad samarbeta med konstnärer och formgivare för att förena hantverk och industriell produktion med konstnärlig formgivning. Kosta var tidigt ute och knöt 1898 konstnären Gunnar Wennerberg till bruket som konstnärlig ledare. Det markerade en förändring i synen på glaset, från bruksföremål till ett material där form, färg och konstnärligt uttryck fick en allt större betydelse. Under de följande decennierna kom konstnärernas nära samarbete med glasbruken att bli kännetecknande för den svenska glasindustrin och lade grunden för det som senare blev känt som svenskt konstglas. Att låta Bruno Mathsson bygga både konstutställningshall och radhus blev naturligt i ledet att uppmärksamma det svenska konstglaset.",
         "lat": 56.8506,
         "lon": 15.3982,
         "image": "/images/glashusen.png"
