@@ -4,10 +4,7 @@ import type { CuratedData } from '../types'
 import 'leaflet/dist/leaflet.css'
 // @ts-ignore
 import L from 'leaflet'
-
-
-
-// Fix default marker icons broken by Vite
+import ReactGA from 'react-ga4'
 import markerIcon from 'leaflet/dist/images/marker-icon.png'
 import markerIcon2x from 'leaflet/dist/images/marker-icon-2x.png'
 import markerShadow from 'leaflet/dist/images/marker-shadow.png'
@@ -35,6 +32,16 @@ const CuratedMap: FC<Props> = ({ curated, onSelect }) => {
         id,
         ...data,
     }))
+
+const handleSelectLocation = (entry: CuratedEntry, source: 'marker' | 'popup_button') => {
+    ReactGA.event({
+        category: 'Karta',
+        action: `Klickat_på_${source}`,
+        label: `${entry.name} (${entry.id}`,
+    });
+
+    onSelect(entry.id);
+}
 
     return (
         <div style={{ position: 'relative', zIndex: 0, marginBottom: '2.5rem' }}>
@@ -80,7 +87,7 @@ const CuratedMap: FC<Props> = ({ curated, onSelect }) => {
                         key={entry.id}
                         position={[entry.lat, entry.lon]}
                         eventHandlers={{
-                            click: () => onSelect(entry.id),
+                            click: () => handleSelectLocation(entry, 'marker')
                         }}
                     >
                         <Popup>
@@ -92,7 +99,7 @@ const CuratedMap: FC<Props> = ({ curated, onSelect }) => {
                                 </span>
                                 <br />
                                 <button
-                                    onClick={() => onSelect(entry.id)}
+                                    onClick={() => handleSelectLocation(entry, 'popup_button')}
                                     style={{
                                         marginTop: '6px',
                                         fontSize: '12px',
